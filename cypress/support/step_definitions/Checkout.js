@@ -81,7 +81,8 @@ And("TC-014 Check Price after Remove a product from Cart", () => {
     cy.contains('1343').should('be.contain', '1343')
 })
 And("TC-015 Place Order", () => {
-    cy.get(".btn-primary.mb15").click({force: true});
+    // cy.get(".btn-primary.mb15").click({force: true});
+    cy.get(".btn-primary.mb15").click();
 })
 And("TC-016 Add Address", () => {
     cy.get('.f50.fa.fa-plus-circle').click();
@@ -145,9 +146,3 @@ Then("TC-026 Logout", () => {
 //     cy.xpath("//a[@title='MEN']").click();
 //     cy.url().should("contain", "men");
 //   });
-  
-
-// When("click on men", () => {
-//     cy.xpath("//a[@title='MEN']").click();
-//     cy.url().should("contain", "men");
-
