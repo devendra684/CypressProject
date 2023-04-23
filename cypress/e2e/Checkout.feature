@@ -15,7 +15,7 @@ Feature:Validation & Verficication for Checkout Process of The Souled Store
         When TSc-08 & TC-006 'Go to cart'
         # And TC-006 "Go to Cart"
         And TC-007 Verify the Product List
-        # And TC-008 Check the Product
+        And TC-008 Check the Product
         And TC-009 Check the Product details
         And TC-010 Check Price Section
         And TC-011 Check the Total Price
@@ -26,7 +26,7 @@ Feature:Validation & Verficication for Checkout Process of The Souled Store
         And TC-016 Add Address
         And TC-017 Visible new Added Address
         And TC-018 Proceed to Payment
-        And TC-019 Proceed to Payment
+        And TC-019 Check are we Proceed for Payment
         And TC-020 Product removed Pop-up
         And TC-021 Empty Cart
         Then TC-022 Empty Cart Message
