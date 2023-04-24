@@ -1,0 +1,352 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Validation & Verficication for Checkout Process of The Souled Store",
+    "line": 1,
+    "id": "validation-&-verficication-for-checkout-process-of-the-souled-store",
+    "tags": [],
+    "uri": "Checkout.feature",
+    "elements": [
+      {
+        "id": "validation-&-verficication-for-checkout-process-of-the-souled-store;tsc-07-&-tc-087_to_tc-091:-add-the-product-to-the-cart",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "TSc-07 & TC-087_to_TC-091: Add the product to the cart",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "Openbrowser & Visit to The Souled Store",
+            "result": {
+              "status": "passed",
+              "duration": 36709000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "Go to Product page",
+            "result": {
+              "status": "passed",
+              "duration": 44584000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "TC-087 Select a Product size",
+            "result": {
+              "status": "passed",
+              "duration": 1380000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "TC-088 Verify Add product to Cart button",
+            "result": {
+              "status": "passed",
+              "duration": 266000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "TC-089 Add product to Cart",
+            "result": {
+              "status": "passed",
+              "duration": 3051000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "#Extra Adding One more product to Cart",
+            "result": {
+              "status": "passed",
+              "duration": 56205000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "TC-090 Verify Go to cart Button",
+            "result": {
+              "status": "passed",
+              "duration": 1731000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "TC-091 Verify Count on Cart Icon",
+            "result": {
+              "status": "passed",
+              "duration": 2557000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validation-&-verficication-for-checkout-process-of-the-souled-store;tsc-08-&-tc-092_to_tc-108:-go-to-cart-and-verify-the-product",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "TSc-08 & TC-092_to_TC-108: Go to cart and verify the product",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "Openbrowser & Visit to The Souled Store",
+            "result": {
+              "status": "passed",
+              "duration": 43890000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 16,
+            "name": "TSc-08 & TC-092 'Go to cart'",
+            "result": {
+              "status": "passed",
+              "duration": 55795000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "TC-093 Verify the Product List",
+            "result": {
+              "status": "passed",
+              "duration": 1276000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "TC-094 Check the Product",
+            "result": {
+              "status": "passed",
+              "duration": 168000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "TC-095 Check the Product details",
+            "result": {
+              "status": "passed",
+              "duration": 261000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "TC-096 Check Price Section",
+            "result": {
+              "status": "passed",
+              "duration": 269000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "TC-097 Check the Total Price",
+            "result": {
+              "status": "passed",
+              "duration": 239000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "TC-098 Remove Product from Cart",
+            "result": {
+              "status": "passed",
+              "duration": 1689000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "TC-099 Verify Product is Removed from Cart",
+            "result": {
+              "status": "passed",
+              "duration": 172000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "TC-100 Check Price after Remove a product from Cart",
+            "result": {
+              "status": "passed",
+              "duration": 1099000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 26,
+            "name": "TC-101 Place Order",
+            "result": {
+              "status": "passed",
+              "duration": 4576000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "TC-102 Add Address",
+            "result": {
+              "status": "passed",
+              "duration": 4969000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 28,
+            "name": "TC-103 Visible new Added Address",
+            "result": {
+              "status": "passed",
+              "duration": 1120000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 29,
+            "name": "TC-104 Proceed to Payment",
+            "result": {
+              "status": "passed",
+              "duration": 895000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 30,
+            "name": "TC-105 Check are we Proceed for Payment",
+            "result": {
+              "status": "passed",
+              "duration": 3190000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 31,
+            "name": "TC-106 Product removed Pop-up",
+            "result": {
+              "status": "passed",
+              "duration": 4842000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 32,
+            "name": "TC-107 Empty Cart",
+            "result": {
+              "status": "passed",
+              "duration": 2177000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 33,
+            "name": "TC-108 Empty Cart Message",
+            "result": {
+              "status": "passed",
+              "duration": 958000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validation-&-verficication-for-checkout-process-of-the-souled-store;tsc-09-&-tc-109_to_tc-112:-go-to-home,clear(empty)-the-cart-and-logout",
+        "keyword": "Scenario",
+        "line": 35,
+        "name": "TSc-09 & TC-109_to_TC-112: Go to Home,Clear(empty) the cart and logout",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "Openbrowser & Visit to The Souled Store",
+            "result": {
+              "status": "passed",
+              "duration": 39994000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 36,
+            "name": "TSc-09 & TC-109 Go to Home and logout",
+            "result": {
+              "status": "passed",
+              "duration": 37885000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 37,
+            "name": "TC-110 Go to Profile",
+            "result": {
+              "status": "passed",
+              "duration": 1084000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 38,
+            "name": "TC-111 User Details in Profile",
+            "result": {
+              "status": "passed",
+              "duration": 808000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 39,
+            "name": "TC-112 Logout",
+            "result": {
+              "status": "passed",
+              "duration": 5720000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
