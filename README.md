@@ -8,3 +8,7 @@ The Souled Store Fashion Website Automated with Cypress Through BDD Framework wi
 - Logout
 
 ###https://www.thesouledstore.com/
+
+Report![Screenshot 2023-05-21 215524](https://github.com/devendra684/CypressProject/assets/100137935/99b643e7-e215-4a70-837b-28dc8c4661b1)
+
+
