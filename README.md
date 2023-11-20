@@ -1,6 +1,6 @@
-##Cypress_Automation_Testing_Project
+#Cypress_Automation_Testing_Project
 
-The Souled Store Fashion Website Automated with Cypress Through BDD Framework with Cucumber
+The Souled Store Fashion Website Automated testing with Cypress Through Cucumber BDD Framework
 - Login
 - Add Product to Cart
 - Check Cart
